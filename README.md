@@ -40,3 +40,6 @@ Faculty of Electrical Engineering, Czech Technical Unversity in Prague
 ## Code and data
 
 All code and data developed and created in this thesis is stored in a private repository for the purpose of protecting a know-how created in CIIRC Laboratory Testbed for Industry 4.0. For access to this repository, feel free to reach out to ondrej.svec@cvut.cz, tomas.jochman@cvut.cz or pavel.burget@cvut.cz.
+
+## Video
+[![Watch the video](https://img.youtube.com/vi/anXrkZAhG6c/0.jpg)](https://youtu.be/anXrkZAhG6c)
