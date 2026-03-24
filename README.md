@@ -2,6 +2,8 @@
 
 This repository contains serves the purpose of an appendix enclosed to master thesis:
 
+http://hdl.handle.net/10467/114796
+
 ```
 title: Robotic Object Manipulation in Virtual and Physical Environment
 author: Ondrej Svec
